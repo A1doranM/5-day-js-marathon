@@ -12,7 +12,7 @@ body {
     height: 100vh;
     font-family: 'Muli', sans-serif;
     overflow: hidden;
-    background: #111;
+    background: darkgreen;
 }
 
 .container {
